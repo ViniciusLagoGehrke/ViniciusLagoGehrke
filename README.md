@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+🌱 I’m currently learning React.js and willing to collaborate on open source projects.
 
 <!--
 **ViniciusLagoGehrke/ViniciusLagoGehrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
