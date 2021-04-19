@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning React.js and willing to collaborate on open source projects.
 
+Here's my [personal portfolio](https://front-end-portfolio.vercel.app/) created with React and feeded with Github REST API.
+
 <!--
 **ViniciusLagoGehrke/ViniciusLagoGehrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
